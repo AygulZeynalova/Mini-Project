@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\migrations\\20240318071733_turboazdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\migrations\\20240318071733_turboazdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\commons\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\commons\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\configurations\\announcemententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\configurations\\announcemententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\entities\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\entities\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|c:\\users\\asus\\desktop\\mini project\\miniproject\\miniproject\\models\\datacontext\\turbodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B35712-9BD9-4DDA-9D90-85E22073C806}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\models\\datacontext\\turbodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Commons\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Commons\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Commons\\AuditableEntity.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Commons\\AuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:44:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240318071733_TurboAzDb.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Migrations\\20240318071733_TurboAzDb.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Migrations\\20240318071733_TurboAzDb.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Migrations\\20240318071733_TurboAzDb.cs",
+              "RelativeToolTip": "MiniProject\\Migrations\\20240318071733_TurboAzDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:17:33.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Announcement.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Announcement.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Announcement.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Announcement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:15:09.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurboDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\DataContext\\TurboDbContext.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\DataContext\\TurboDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\DataContext\\TurboDbContext.cs",
+              "RelativeToolTip": "MiniProject\\Models\\DataContext\\TurboDbContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:41:39.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnnouncementEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Configurations\\AnnouncementEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Configurations\\AnnouncementEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Configurations\\AnnouncementEntityTypeConfiguration.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Configurations\\AnnouncementEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:23:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Model.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:13:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeToolTip": "MiniProject\\Program.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:51:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Models\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Mini Project\\MiniProject\\MiniProject\\Models\\Entities\\Brand.cs",
+              "RelativeToolTip": "MiniProject\\Models\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:13:49.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
